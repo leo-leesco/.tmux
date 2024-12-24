@@ -1,0 +1,9 @@
+[submodule "plugins/tmux-floax"]
+	path = plugins/tmux-floax
+	url = git@github.com:omerxx/tmux-floax.git
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = git@github.com:leo-leesco/tpm.git
+[submodule "plugins/vim-tmux-navigator"]
+	path = plugins/vim-tmux-navigator
+	url = git@github.com:christoomey/vim-tmux-navigator
