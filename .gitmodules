@@ -7,3 +7,6 @@
 [submodule "plugins/vim-tmux-navigator"]
 	path = plugins/vim-tmux-navigator
 	url = git@github.com:christoomey/vim-tmux-navigator
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible.git
